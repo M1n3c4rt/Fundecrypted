@@ -1,0 +1,20 @@
+{
+  "name": "Fundecrypted",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/M1n3c4rt/Fundecrypted.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/M1n3c4rt/Fundecrypted/issues"
+  },
+  "homepage": "https://github.com/M1n3c4rt/Fundecrypted#readme"
+}
