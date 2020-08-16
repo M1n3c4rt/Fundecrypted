@@ -1,20 +1,25 @@
 {
-  "name": "Fundecrypted",
+
+  "name": "FunDecrypted",
+
+  "description": "A fun bot with some slightly annoying commands.",
+
   "version": "1.0.0",
-  "description": "",
+
   "main": "bot.js",
+
   "scripts": {
-    "worker" : "node bot.js"
+
+    "start": "node bot.js"
+
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/M1n3c4rt/Fundecrypted.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/M1n3c4rt/Fundecrypted/issues"
-  },
-  "homepage": "https://github.com/M1n3c4rt/Fundecrypted#readme"
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
 }
